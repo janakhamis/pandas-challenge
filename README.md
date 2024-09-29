@@ -1,5 +1,5 @@
 # Pandas Challenge
-This challenge analyzes important metrics related to a school districts performance, including math and reading scores, school spending, and overall student success rate. The analysis looks at both district level and school level performance, breaking down the data by grade, school size, and school type (Module 4 Challenge).
+This project analyzes important metrics related to a school districts performance, including math and reading scores, school spending, and overall student success rate. The analysis looks at both district level and school level performance, breaking down the data by grade, school size, and school type (Module 4 Challenge).
 
 # Objective
 To conduct an in-depth analysis of school district by analyzing key indicators such as average test results, percentage of students passing, and school budget distribution, among others. The analysis shows both high and low performing schools, as well as patterns in student performance based on school funding, size, and type. 
@@ -61,9 +61,14 @@ To conduct an in-depth analysis of school district by analyzing key indicators s
        2. Use the cd command to navigate to the directory where you want to clone the repository.
        3. Run the following command to clone the repository: git clone link_provided
   2. Ensure Pandas is installed on your machine.
+     - Install Pandas using pip if it's not already installed (pip install pandas).
   3. Open the cloned file in the Visual Studio Code:
        1. Go to file > Open Folder and navigate to the folder where you cloned the repository.
        2. Select the folder to open in VS code.
   4. Run the Jupyter Notebook
-  5. The result will consist of numerous DataFrames exhibiting school performance split down by various characteristics such as school size, kind, and spending. The notebook also includes vital metrics for the entire district as well as each individual school.
+     1. Open the notebook file (PyCitySchools_starter.ipynb) in VS code or Jupyter.
+     2. Run the cells to perform the Analysis.
+
+# Results 
+The result will consist of numerous DataFrames exhibiting school performance split down by various characteristics such as school size, kind, and spending. The notebook also includes vital metrics for the entire district as well as each individual school.
    
